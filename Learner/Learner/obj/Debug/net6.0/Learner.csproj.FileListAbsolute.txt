@@ -1,0 +1,15 @@
+/Users/noah/Projects/Learner/Learner/bin/Debug/net6.0/Learner
+/Users/noah/Projects/Learner/Learner/bin/Debug/net6.0/Learner.deps.json
+/Users/noah/Projects/Learner/Learner/bin/Debug/net6.0/Learner.runtimeconfig.json
+/Users/noah/Projects/Learner/Learner/bin/Debug/net6.0/Learner.dll
+/Users/noah/Projects/Learner/Learner/bin/Debug/net6.0/Learner.pdb
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.csproj.AssemblyReference.cache
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.AssemblyInfoInputs.cache
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.AssemblyInfo.cs
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.csproj.CoreCompileInputs.cache
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.dll
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/refint/Learner.dll
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.pdb
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/Learner.genruntimeconfig.cache
+/Users/noah/Projects/Learner/Learner/obj/Debug/net6.0/ref/Learner.dll
