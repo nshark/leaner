@@ -96,15 +96,15 @@ namespace Learner
                         {
                             options.Add("move left");
                         }
-                        if (tile.x - mineMap.getX() == 1)
+                        else if (tile.x - mineMap.getX() == 1)
                         {
                             options.Add("move right");
                         }
-                        if (tile.y - mineMap.getY() == -1)
+                        else if (tile.y - mineMap.getY() == -1)
                         {
                             options.Add("move up");
                         }
-                        if (tile.y - mineMap.getY() == 1)
+                        else if (tile.y - mineMap.getY() == 1)
                         {
                             options.Add("move down");
                         }
@@ -115,15 +115,15 @@ namespace Learner
                         {
                             options.Add("mine " + tile.type + " left");
                         }
-                        if (tile.x - mineMap.getX() == 1)
+                        else if (tile.x - mineMap.getX() == 1)
                         {
                             options.Add("mine " + tile.type + " right");
                         }
-                        if (tile.y - mineMap.getY() == -1)
+                        else if (tile.y - mineMap.getY() == -1)
                         {
                             options.Add("mine " + tile.type + " up");
                         }
-                        if (tile.y - mineMap.getY() == 1)
+                        else if (tile.y - mineMap.getY() == 1)
                         {
                             options.Add("mine " + tile.type + " down");
                         }

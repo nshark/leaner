@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace Learner
 {
     public class MineTile

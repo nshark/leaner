@@ -1,3 +1,8 @@
 ﻿using Learner;
-game g = new();
-g.run();
+
+class Program {
+  public static void Main (string[] args) {
+    game g = new game();
+    g.run();
+  }
+}

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/noah/.nuget/packages/": {}
+    "/home/runner/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/noah/Projects/Learner/Learner/Learner.csproj",
+      "projectUniqueName": "/home/runner/leaner/Learner/Learner/Learner.csproj",
       "projectName": "Learner",
-      "projectPath": "/Users/noah/Projects/Learner/Learner/Learner.csproj",
-      "packagesPath": "/Users/noah/.nuget/packages/",
-      "outputPath": "/Users/noah/Projects/Learner/Learner/obj/",
+      "projectPath": "/home/runner/leaner/Learner/Learner/Learner.csproj",
+      "packagesPath": "/home/runner/.nuget/packages/",
+      "outputPath": "/home/runner/leaner/Learner/Learner/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/noah/.nuget/NuGet/NuGet.Config"
+        "/home/runner/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/nix/store/jsm5am5i2b2izvwzbw5h6lk3plvpkrlw-dotnet-sdk-6.0.100/sdk/6.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
